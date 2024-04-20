@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "title": "Luxury Beach Villa in Goa",
+        "description": "Experience the ultimate relaxation in this private beach villa located on the serene beaches of Goa.",
+        "pricePerNight": 15000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595605/Luxury_Beach_Villa_in_Goa_tronsc.webp",
+        "location": "Goa",
+        "bedrooms": 3,
+        "amenities": [
+            "Wi-Fi",
+            "Private Beach",
+            "Pool",
+            "Spa"
+        ],
+        "bookNowUrl": "/book/1"
+    },
+    {
+        "id": 2,
+        "title": "Heritage Haveli in Jaipur",
+        "description": "Stay in a traditional Rajasthani haveli with intricate architecture and royal ambience.",
+        "pricePerNight": 12000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595608/Heritage_Haveli_in_Jaipur_sqquok.webp",
+        "location": "Jaipur",
+        "bedrooms": 5,
+        "amenities": [
+            "Wi-Fi",
+            "Air Conditioning",
+            "Breakfast",
+            "Historical Landmarks"
+        ],
+        "bookNowUrl": "/book/2"
+    },
+    {
+        "id": 3,
+        "title": "Modern Penthouse in Mumbai",
+        "description": "Enjoy panoramic views of the Mumbai skyline from this luxurious penthouse.",
+        "pricePerNight": 20000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595611/Modern_Penthouse_in_Mumbai_hhn4gy.webp",
+        "location": "Mumbai",
+        "bedrooms": 4,
+        "amenities": [
+            "Wi-Fi",
+            "City View",
+            "Gym",
+            "Jacuzzi"
+        ],
+        "bookNowUrl": "/book/3"
+    },
+    {
+        "id": 4,
+        "title": "Eco-friendly Cottage in Munnar",
+        "description": "Escape to the cool hills of Munnar in this eco-friendly cottage surrounded by tea plantations.",
+        "pricePerNight": 8500,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595614/Eco-friendly_Cottage_in_Munnar_g7frva.webp",
+        "location": "Munnar",
+        "bedrooms": 2,
+        "amenities": [
+            "Wi-Fi",
+            "Mountain View",
+            "Breakfast",
+            "Hiking Trails"
+        ],
+        "bookNowUrl": "/book/4"
+    },
+    {
+        "id": 5,
+        "title": "Luxurious Resort in Udaipur",
+        "description": "Stay at a luxurious resort with stunning views of the lakes and palaces of Udaipur.",
+        "pricePerNight": 18000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595560/Luxurious_Resort_in_Udaipur_kc9q2s.webp",
+        "location": "Udaipur",
+        "bedrooms": 3,
+        "amenities": [
+            "Wi-Fi",
+            "Lake View",
+            "Spa",
+            "Cultural Tours"
+        ],
+        "bookNowUrl": "/book/5"
+    },
+    {
+        "id": 6,
+        "title": "Colonial Bungalow in Shimla",
+        "description": "Relive the colonial era in a charming bungalow nestled in the heart of Shimla.",
+        "pricePerNight": 10000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595560/Colonial_Bungalow_in_Shimla_xmhnhg.webp",
+        "location": "Shimla",
+        "bedrooms": 3,
+        "amenities": [
+            "Wi-Fi",
+            "Mountain View",
+            "Fireplace",
+            "Heritage Walks"
+        ],
+        "bookNowUrl": "/book/6"
+    },
+    {
+        "id": 7,
+        "title": "Beachfront Bungalow in Kerala",
+        "description": "Unwind in a tranquil beachfront bungalow along the picturesque coastlines of Kerala.",
+        "pricePerNight": 13500,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595561/Beachfront_Bungalow_in_Kerala_jcdvts.webp",
+        "location": "Kerala",
+        "bedrooms": 3,
+        "amenities": [
+            "Wi-Fi",
+            "Beach Access",
+            "Yoga Retreats",
+            "Seafood Cuisine"
+        ],
+        "bookNowUrl": "/book/7"
+    },
+    {
+        "id": 8,
+        "title": "Mountain Retreat in the Himalayas",
+        "description": "Isolate yourself from the world in a secluded retreat in the Himalayas, perfect for meditation and rejuvenation.",
+        "pricePerNight": 9000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595565/Mountain_Retreat_in_the_Himalayas_biz1qh.webp",
+        "location": "Himalayas",
+        "bedrooms": 2,
+        "amenities": [
+            "Wi-Fi",
+            "Mountain View",
+            "Guided Treks",
+            "Wellness Spa"
+        ],
+        "bookNowUrl": "/book/8"
+    },
+    {
+        "id": 9,
+        "title": "Traditional Houseboat in Srinagar",
+        "description": "Experience the unique Kashmiri lifestyle in a beautifully decorated traditional houseboat.",
+        "pricePerNight": 11000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595568/Traditional_Houseboat_in_Srinagar_jxepjc.webp",
+        "location": "Srinagar",
+        "bedrooms": 2,
+        "amenities": [
+            "Wi-Fi",
+            "Lake View",
+            "Shikara Rides",
+            "Kashmiri Cuisine"
+        ],
+        "bookNowUrl": "/book/9"
+    },
+    {
+        "id": 10,
+        "title": "Boutique Hotel in Pondicherry",
+        "description": "Enjoy Frencharchitecture, located in the charming streets of Pondicherry.",
+        "pricePerNight": 14000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595571/Boutique_Hotel_in_Pondicherry_v4yi4c.webp",
+        "location": "Pondicherry",
+        "bedrooms": 4,
+        "amenities": [
+            "Wi-Fi",
+            "Art Classes",
+            "Bicycle Rentals",
+            "Historical Tours"
+        ],
+        "bookNowUrl": "/book/10"
+    },
+    {
+        "id": 11,
+        "title": "Artistic Villa in Auroville",
+        "description": "Discover serenity and creative inspiration in this unique villa in the artist community of Auroville.",
+        "pricePerNight": 16000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595574/Artistic_Villa_in_Auroville_ipdazm.webp",
+        "location": "Auroville",
+        "bedrooms": 2,
+        "amenities": [
+            "Wi-Fi",
+            "Workshops",
+            "Eco-Friendly",
+            "Spiritual Retreats"
+        ],
+        "bookNowUrl": "/book/11"
+    },
+    {
+        "id": 12,
+        "title": "Desert Camp in Jaisalmer",
+        "description": "Experience the thrill of the Thar Desert in a luxury camp complete with cultural performances and camel safaris.",
+        "pricePerNight": 13000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595581/Desert_Camp_in_Jaisalmer_mmoke0.webp",
+        "location": "Jaisalmer",
+        "bedrooms": 1,
+        "amenities": [
+            "Wi-Fi",
+            "Desert Safaris",
+            "Cultural Shows",
+            "Star Gazing"
+        ],
+        "bookNowUrl": "/book/12"
+    },
+    {
+        "id": 13,
+        "title": "Forest Lodge in Corbett",
+        "description": "Stay amidst the wilderness in a forest lodge, ideal for wildlife enthusiasts looking to spot tigers and other wildlife.",
+        "pricePerNight": 12500,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595581/Forest_Lodge_in_Corbett_xnkbrx.webp",
+        "location": "Corbett",
+        "bedrooms": 3,
+        "amenities": [
+            "Wi-Fi",
+            "Jeep Safaris",
+            "Bird Watching",
+            "Eco-Tours"
+        ],
+        "bookNowUrl": "/book/13"
+    },
+    {
+        "id": 14,
+        "title": "Heritage Palace in Bikaner",
+        "description": "Live like royalty in this breathtaking heritage palace that offers a peek into India's regal past.",
+        "pricePerNight": 20000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595589/Heritage_Palace_in_Bikaner_lm452e.webp",
+        "location": "Bikaner",
+        "bedrooms": 5,
+        "amenities": [
+            "Wi-Fi",
+            "Palace Tours",
+            "Camel Rides",
+            "Royal Cuisine"
+        ],
+        "bookNowUrl": "/book/14"
+    },
+    {
+        "id": 15,
+        "title": "Private Island Resort in Andaman",
+        "description": "Isolate yourself on a private island in the Andamans, with white sandy beaches and crystal-clear waters.",
+        "pricePerNight": 25000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595586/Private_Island_Resort_in_Andaman_lakvob.webp",
+        "location": "Andaman Islands",
+        "bedrooms": 4,
+        "amenities": [
+            "Wi-Fi",
+            "Private Beach",
+            "Snorkeling",
+            "Sea Kayaking"
+        ],
+        "bookNowUrl": "/book/15"
+    },
+    {
+        "id": 16,
+        "title": "Eco Retreat in Gokarna",
+        "description": "Eco-friendly retreat by the beach in Gokarna offering yoga, meditation, and organic meals.",
+        "pricePerNight": 8000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595588/Eco_Retreat_in_Gokarna_aekkug.webp",
+        "location": "Gokarna",
+        "bedrooms": 2,
+        "amenities": [
+            "Wi-Fi",
+            "Yoga Classes",
+            "Organic Food",
+            "Nature Walks"
+        ],
+        "bookNowUrl": "/book/16"
+    },
+    {
+        "id": 17,
+        "title": "Luxury Skyline Apartment in Bangalore",
+        "description": "Modern apartment with a stunning city view in Bangalore’s vibrant downtown area.",
+        "pricePerNight": 15500,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595595/Luxury_Skyline_Apartment_in_Bangalore_d6hqrw.webp",
+        "location": "Bangalore",
+        "bedrooms": 3,
+        "amenities": [
+            "Wi-Fi",
+            "City View",
+            "Gym",
+            "Concierge"
+        ],
+        "bookNowUrl": "/book/17"
+    },
+    {
+        "id": 18,
+        "title": "Hillside Villa in Ooty",
+        "description": "Colonial-style villa perched on the hills of Ooty, with stunning views and lush gardens.",
+        "pricePerNight": 14000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595595/Hillside_Villa_in_Ooty_dfhbtz.webp",
+        "location": "Ooty",
+        "bedrooms": 4,
+        "amenities": [
+            "Wi-Fi",
+            "Garden",
+            "Housekeeping",
+            "Guided Tours"
+        ],
+        "bookNowUrl": "/book/18"
+    },
+    {
+        "id": 19,
+        "title": "Backwater Resort in Alleppey",
+        "description": "Relax in a resort that floats on the backwaters of Alleppey, offering an unforgettable experience of Kerala’s waterways.",
+        "pricePerNight": 17000,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595601/Backwater_Resort_in_Alleppey_kcjupk.webp",
+        "location": "Alleppey",
+        "bedrooms": 3,
+        "amenities": [
+            "Wi-Fi",
+            "Boat Rides",
+            "Spa Services",
+            "Waterfront Dining"
+        ],
+        "bookNowUrl": "/book/19"
+    },
+    {
+        "id": 20,
+        "title": "Tea Estate Bungalow in Darjeeling",
+        "description": "Elegant bungalow in the heart of a lush tea estate, ideal for a tranquil retreat among the aromatic tea gardens.",
+        "pricePerNight": 9500,
+        "imageUrl": "https://res.cloudinary.com/dnqgnmrup/image/upload/v1713595602/Tea_Estate_Bungalow_in_Darjeeling_rxdgvk.webp",
+        "location": "Darjeeling",
+        "bedrooms": 3,
+        "amenities": [
+            "Wi-Fi",
+            "Tea Tours",
+            "Garden",
+            "Mountain Views"
+        ],
+        "bookNowUrl": "/book/20"
+    }
+]
